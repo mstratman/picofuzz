@@ -12,7 +12,7 @@ This is a bazz fuzz circuit, with endless possibilities to try.
 
 I recommend experimenting with component values. e.g. see these writeups for some ideas to get started
 
-* [tonefiend project)[https://www.tonefiend.com/wp-content/uploads/DIY-Club-Project-2-v02.pdf]
+* [tonefiend project](https://www.tonefiend.com/wp-content/uploads/DIY-Club-Project-2-v02.pdf)
 * [home-wrecker.com writeup](http://home-wrecker.com/bazz.html)
 
 ## Combinations to try
