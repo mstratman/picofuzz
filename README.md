@@ -8,7 +8,7 @@ Resistors and capacitors are 0805 packages.
 
 ## Intro
 
-This is a bazz fuzz circuit, with endless possibilities to try. 
+This is a bazz fuss circuit, with endless possibilities to try. 
 
 I recommend experimenting with component values. e.g. see these writeups for some ideas to get started
 
