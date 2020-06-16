@@ -2,6 +2,8 @@
 
 The tiniest fuzz, because... why not?
 
+Resistors and capacitors are 0805 packages.
+
 ![picofuzz wiring](/picofuzz-wiring.png)
 
 ## Intro
