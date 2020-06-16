@@ -41,7 +41,7 @@ Chain two together, with a different diode on the second, e.g. BAT46
 
 You can and should substitute other values for all the components. But these are decent starting points.
 
-[picofuzz schematic](/picofuzz-schematic.png)
+![picofuzz schematic](/picofuzz-schematic.png)
 
 ## Optional add-ons:
 
