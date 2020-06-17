@@ -4,13 +4,15 @@ The tiniest fuzz, because... why not?
 
 This is a fun and practical guitar pedal, and a great opportunity to practice surface mount (SMD) soldering (and do so with nothing but your regular soldering iron).
 
-![picofuzz](/picofuzz.jpg)
-
-![picofuzz wiring](/picofuzz-wiring.png)
-
 ### How to get it
 
 You can either download the gerber files from this repo, or [buy it on my store here](https://mas-effects.square.site/product/10-picofuzz-pcbs/23?cp=true&sa=false&sbp=false&q=false&category_id=7).
+
+### Pics and Wiring Diagram
+
+![picofuzz](/picofuzz.jpg)
+
+![picofuzz wiring](/picofuzz-wiring.png)
 
 ## Intro
 
