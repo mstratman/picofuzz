@@ -1,5 +1,11 @@
 # PicoFuzz
 
+---
+
+*For more DIY pedal fun, visit the [MAS Effects](https://mas-effects.com) page.*
+
+---
+
 The tiniest fuzz, because... why not?
 
 This is a fun and practical guitar pedal, and a great opportunity to practice surface mount (SMD) soldering (and do so with nothing but your regular soldering iron).
