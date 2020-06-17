@@ -2,9 +2,15 @@
 
 The tiniest fuzz, because... why not?
 
-Resistors and capacitors are 0805 packages.
+This is a fun and practical guitar pedal, and a great opportunity to practice surface mount (SMD) soldering (and do so with nothing but your regular soldering iron).
+
+![picofuzz](/picofuzz.jpg)
 
 ![picofuzz wiring](/picofuzz-wiring.png)
+
+### How to get it
+
+You can either download the gerber files from this repo, or [buy it on my store here](https://mas-effects.square.site/product/10-picofuzz-pcbs/23?cp=true&sa=false&sbp=false&q=false&category_id=7).
 
 ## Intro
 
@@ -14,6 +20,14 @@ I recommend experimenting with component values. e.g. see these writeups for som
 
 * [tonefiend project](https://www.tonefiend.com/wp-content/uploads/DIY-Club-Project-2-v02.pdf)
 * [home-wrecker.com writeup](http://home-wrecker.com/bazz.html)
+
+## Schematic
+
+NOTE: Resistors and capacitors are 0805 packages.
+
+You can and should substitute other values for all the components. But these are decent starting points.
+
+![picofuzz schematic](/picofuzz-schematic.png)
 
 ## Combinations to try
 
@@ -36,12 +50,6 @@ TODO: This should be filled in and fleshed out further
 ## Buzz Box
 
 Chain two together, with a different diode on the second, e.g. BAT46
-
-## Schematic
-
-You can and should substitute other values for all the components. But these are decent starting points.
-
-![picofuzz schematic](/picofuzz-schematic.png)
 
 ## Optional add-ons:
 
