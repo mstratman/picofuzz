@@ -14,12 +14,6 @@ This is a fun and practical guitar pedal, and a great opportunity to practice su
 
 You can either download the gerber files from this repo, or [buy it on my store here](https://mas-effects.square.site/product/10-picofuzz-pcbs/23?cp=true&sa=false&sbp=false&q=false&category_id=7).
 
-### Pics and Wiring Diagram
-
-![picofuzz](/picofuzz.jpg)
-
-![picofuzz wiring](/picofuzz-wiring.png)
-
 ## Intro
 
 This is a bazz fuss circuit, with endless possibilities to try. 
@@ -28,6 +22,27 @@ I recommend experimenting with component values. e.g. see these writeups for som
 
 * [tonefiend project](https://www.tonefiend.com/wp-content/uploads/DIY-Club-Project-2-v02.pdf)
 * [home-wrecker.com writeup](http://home-wrecker.com/bazz.html)
+
+## Pics and Wiring Diagram
+
+![picofuzz](/picofuzz.jpg)
+
+![picofuzz wiring](/picofuzz-wiring.png)
+
+## Assembly Tips 
+
+You can solder SMD components with a regular soldering iron, and no special tools or equipment. It doesn't take a lot of practice, and this board is great for it.
+
+Here are some tips:
+
+* **Soldering steps**
+  * Pre-tin one pad on the PCB
+  * In your non-dominant hand: Place and hold the component with tweezers
+  * With your dominant hand: Heat the component and the pad simultaneously with the soldering iron. Solder should flow up onto the component.
+  * You no longer need the tweezers.
+  * Go to the other side of the component and apply heat to the component and pad, then touch a tiny amount of solder to it.
+  * Optionally, if necessary, go back to the first pad and add a bit more solder.
+* **Soldering iron tip size and shape**: It may seem intuitive to use a tiny tip on your iron, but this will probably make the job more difficult since it will be harder to apply even heat to both the component and pad. Instead, use a regular conical pencil-type of tip.
 
 ## Schematic
 
