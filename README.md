@@ -2,7 +2,7 @@
 
 ---
 
-*For more DIY pedal fun, visit the [MAS Effects](https://mas-effects.com) page.*
+*For more DIY pedal fun (e.g. [a 3PDT board version](https://mas-effects.square.site/product/stompfuzz-kit/26?cp=true&sa=false&sbp=false&q=false&category_id=7)  of this), visit the [MAS Effects](https://mas-effects.com) page.*
 
 ---
 
