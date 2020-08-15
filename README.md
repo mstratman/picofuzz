@@ -58,7 +58,7 @@ TODO: This should be filled in and fleshed out further
 
 ### Q1 and R1
 
-* MMBTA14LT1G + 100k
+* MMBTA14LT1G + 100k-510k
 * MMBT6427LT1G  + ?
 * MMBT3904VL  + 510k
 * MMBT5088LT1G + 100k
