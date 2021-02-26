@@ -2,7 +2,7 @@
 
 ---
 
-*For more DIY pedal fun (e.g. [a 3PDT board version](https://mas-effects.square.site/product/stompfuzz-kit/26?cp=true&sa=false&sbp=false&q=false&category_id=7)  of this), visit the [MAS Effects](https://mas-effects.com) page.*
+*For more DIY pedal fun (e.g. [a 3PDT board version](https://shop.mas-effects.com/products/stompfuzz)  of this), visit the [MAS Effects](https://mas-effects.com) page.*
 
 ---
 
@@ -12,7 +12,7 @@ This is a fun and practical guitar pedal, and a great opportunity to practice su
 
 ### How to get it
 
-You can either download the gerber files from this repo, or [buy it on my store here](https://mas-effects.square.site/product/10-picofuzz-pcbs/23?cp=true&sa=false&sbp=false&q=false&category_id=7).
+You can either download the gerber files from this repo, or [buy it on my store here](https://shop.mas-effects.com/products/3-picofuzz-pcbs).
 
 ## Intro
 
